@@ -22,7 +22,7 @@ This dashboard provides insights into **state-wise sales, customer spending, cat
 
 ## 🛠️ Tech Stack  
 
-- **Power BI ** (for dashboarding)  
+- **Power BI** (for dashboarding)  
 - **Data Source**: CSV/Excel dataset (e.g., product shipments & sales records)  
 - **Visualization Types**: Bar charts, pie charts, waterfall charts, line charts  
 
